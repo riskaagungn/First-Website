@@ -9,6 +9,11 @@ p {
   text-align: center;
   color: #534b4b;
 }
+#todays-challenge {
+  color: #aa6053;
+  font-weight: bold;
+  font-size: 52px;
+}
 a {
   color: #a7014e;
   text-decoration: none;
