@@ -10,3 +10,11 @@ h1 {
 p {
   font-family: "Fira Sans", sans-serif;
 }
+a {
+  font-family: "Fira Sans", sans-serif;
+  text-decoration: none;
+  color: #a7014e;
+}
+a:hover {
+  text-decoration: underline;
+}
