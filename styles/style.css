@@ -13,6 +13,9 @@ h1 {
 a {
   color: #491d32;
 }
+span {
+  color: #4b3b3b;
+}
 #todays-challenge {
   color: #aa6053;
   font-weight: bold;
