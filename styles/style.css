@@ -4,6 +4,7 @@ body {
 img {
   height: 200px;
   border-radius: 100px;
+  border: 5px solid black;
 }
 #todays-challenge {
   color: #aa6053;
