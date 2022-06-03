@@ -40,3 +40,7 @@ h2 {
   color: #4e0d05;
   font-family: "Oswald", sans-serif;
 }
+main p {
+  margin: 12px;
+  color: #471d16;
+}
