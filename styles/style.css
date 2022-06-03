@@ -6,6 +6,10 @@ img {
   border-radius: 100px;
   border: 5px solid black;
 }
+h1 {
+  font-size: 30px;
+  color: black;
+}
 #todays-challenge {
   color: #aa6053;
   font-weight: bold;
