@@ -10,6 +10,9 @@ h1 {
   font-size: 30px;
   color: black;
 }
+a {
+  color: #491d32;
+}
 #todays-challenge {
   color: #aa6053;
   font-weight: bold;
